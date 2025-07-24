@@ -4,3 +4,15 @@
 
 layout: home
 ---
+
+# Yannick PORTO
+
+I am a PhD student at University of Burgundy
+
+<p float="right">
+<img src="doc/YP.jpg" width="320" height="240" />
+</p>
+
+
+## Publications
+
