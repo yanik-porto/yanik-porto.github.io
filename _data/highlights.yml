@@ -1,0 +1,8 @@
+- id: babel-mv-dec2024
+  title: "MoCap Rendering"
+  organization: "ICB"
+  date: "December 2024"
+  description: "Rendering of MoCap sequences for pretraining action recogntion models."
+  url: "https://www.worldlabs.ai/blog"
+  image: "flip.gif"
+  video: "flip.mp4"
