@@ -6,3 +6,13 @@
   # url: "https://www.worldlabs.ai/blog"
   image: "flip.gif"
   video: "flip.mp4"
+
+- id: oanet-mar2026
+  title: "Orientation Aware HAR"
+  organization: "ICB"
+  date: "March 2026"
+  description: "Orientation Aware network for cross-domain Human Action Recognition."
+  url: "https://yanik-porto.github.io/OrientationAware-HAR/"
+  image: "OA.gif"
+  video: "OA.mp4"
+
