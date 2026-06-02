@@ -1,0 +1,28 @@
+- id: oanet
+  title: "Cross-Domain Human Action Recognition from Multiview Motion and Textual Descriptions"
+  venue: ICPR, 2026
+  description: "Motion to text association with motion cues of multiple camera viewpoints and textual descriptions of human actions in the training phase to handle geometric domain gaps between the training and test sets."
+  project_page: https://yanik-porto.github.io/OrientationAware-HAR/
+  github: yanik-porto/OrientationAware-HAR
+  arxiv: 2605.22697
+  image: OA.png
+  image_mouseover: OA.mp4
+  authors:
+    - yporto
+    - rmartins
+    - tchalumeau
+    - cdemonceaux
+
+- id: hydraview-tad
+  title: "Improving Viewpoint-Invariance and Temporal Consistency for Action Detection."
+  venue: ICIP, 2026
+  description: "Multi-view framework designed to leverage complementary perspectives for more accurate action boundary detection. Our method employs a specialized encoder to extract motion features from localized temporal windows. These features are then integrated by HydraView, a multi-view and multi-scale temporal encoder that aggregates information across different perspectives to perform frame-level action detection."
+  project_page: https://yanik-porto.github.io/HydraView-TAD/
+  github: yanik-porto/HydraView-TAD
+  arxiv: 2605.22695
+  image: ViewScan.png
+  authors:
+    - yporto
+    - rmartins
+    - tchalumeau
+    - cdemonceaux
