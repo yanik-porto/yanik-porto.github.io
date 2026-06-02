@@ -1,12 +1,3 @@
-- id: babel-mv-dec2024
-  title: "MoCap Rendering"
-  organization: "ICB"
-  date: "December 2024"
-  description: "Rendering of MoCap sequences for pretraining action recogntion models."
-  # url: "https://www.worldlabs.ai/blog"
-  image: "flip.gif"
-  video: "flip.mp4"
-
 - id: oanet-mar2026
   title: "Orientation Aware HAR"
   organization: "ICB"
@@ -16,3 +7,33 @@
   image: "OA.gif"
   video: "OA.mp4"
 
+- id: hydraview-tad-mar2026
+  title: "HydraView TAD"
+  organization: "ICB"
+  date: "april 2026"
+  description: "Improving Viewpoint-Invariance and Temporal Consistency for Action Detection."
+  url: "https://yanik-porto.github.io/HydraView-TAD/"
+  image: "ViewScan.png"
+
+- id: babel-mv-dec2024
+  title: "MoCap Rendering"
+  organization: "ICB"
+  date: "December 2024"
+  description: "Rendering of MoCap sequences for pretraining action recogntion models."
+  # url: "https://www.worldlabs.ai/blog"
+  image: "flip.gif"
+  video: "flip.mp4"
+
+
+# - id: google-3d-shopping-may2025
+#   title: "Generating 3D Products"
+#   organization: "Google Research"
+#   date: "May 2025"
+#   description: "Transform a few photos into interactive 3D shopping experiences using generative AI."
+#   url: "https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/"
+#   image: "google-3d-shopping.jpg"
+#   video: "google-3d-products.mp4"
+#   tags:
+#     - "Generative AI"
+#     - "3D Reconstruction"
+#     - "Computer Vision"
